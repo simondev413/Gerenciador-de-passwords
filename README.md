@@ -22,8 +22,18 @@ Este é um projeto de gerenciamento de senhas desenvolvido em Python. Ele inclui
 O gerenciador de senhas permite armazenar, recuperar e gerar senhas seguras. Abaixo estão alguns exemplos de como usar cada módulo:
 
 ### Exemplo de Uso de 
+```
+Python
+from database import DB
+from generator import Generator
 
+#Gerando uma senha para a conta do LinkeInd e inserindo na base de dados
+DB.insert(account='linkedin',pwd=Generator.generatePwd())
 
+#Recupera os dados existentes na base de dados
+print(DB.get())
+
+```
 ## Contribuição
 
 Contribuições são bem-vindas! Se desejar contribuir com este projeto, siga estas etapas:
