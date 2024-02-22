@@ -48,8 +48,3 @@ Contribuições são bem-vindas! Se desejar contribuir com este projeto, siga es
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 ---
-
-Sinta-se à vontade para personalizar este README conforme necessário e adicionar mais informações sobre o funcionamento do seu gerenciador de senhas.
-
-
-
