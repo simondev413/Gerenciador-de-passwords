@@ -1,6 +1,3 @@
-Claro! Aqui está o README para o seu repositório "Gerenciador de Senhas" com os módulos `database.py`, `generator.py` e `main.py`:
-
----
 
 # Gerenciador de Senhas
 
